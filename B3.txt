@@ -1,0 +1,8 @@
+Ticket Information:
+Row: B
+Seat: 3
+Price: $200
+Person Information:
+Name: batggu
+Surname: fttrfj
+Email: hvjvk
